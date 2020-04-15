@@ -1,0 +1,16 @@
+table {
+  box-sizing: border-box;
+  padding: 15px;
+  margin: 50px auto;
+  text-align: center;
+  background: #d0504a;
+  opacity: 0.9;
+  width: 300px;
+  box-shadow: 1px 1px 5px black;
+  border-radius: 10px;
+}
+
+.img {
+  padding: 0;
+  text-align: center;
+}
